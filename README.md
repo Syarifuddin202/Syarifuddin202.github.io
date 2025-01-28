@@ -1,6 +1,6 @@
-# My Awesome Project
+# My Project
 
-This project does amazing things.
+This is a project about building a personal website.
 
-## Live Project
-[https://myawesomeproject.com](https://myawesomeproject.com)
+## Project URL
+[https://syarifuddin202.github.io](https://syarifuddin202.github.io)
